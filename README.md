@@ -93,7 +93,7 @@
 |LCA using Binary Lifting|https://github.com/xtaci/algorithms/blob/master/include/LCA.h|
 
 #### 贡献者 ( Contributors ) :  
-    Samana:  for heavy work of MSVC compatability
+    Samana: for heavy work of MSVC compatability
     wycg1984: for K-Means
     xmuliang: for HeapSort, Kruskal MST
     wyh267: for base64, LRU, bubble sort, selection sort
